@@ -42,8 +42,8 @@ global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive pictur
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in th)
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
+global.owner = ['+94776230298']
+global.ownertag = '+94776230298' //ur tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -54,7 +54,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94776230298'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
